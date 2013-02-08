@@ -1,0 +1,52 @@
+div#akct {
+	position: absolute; 
+	top:0px; 
+	right: 0px; 
+	z-index: 2300042; 
+	width:230px; 
+	height:84px;
+	background-image: url(../img/tpg-klein.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	border:none;
+	padding:0;
+	margin:0;
+	text-align: right;
+}
+div#akct img {
+	border:none;
+	padding:0;
+	margin:0;
+	background: none;
+}
+div#akct a#akpeel img {
+	width: 200px;
+	height: 84px;
+}
+div#akct a, div#akct a:hover {
+	text-decoration: none;
+	border:none;
+	padding:0;
+	margin:0;
+	display: block;
+	background: none;
+}
+
+div#akct a#akpeel:hover {
+	position: absolute; 
+	top:0px; 
+	right: 0px; 
+	z-index: 40223; 
+	width:500px; 
+	height:435px;
+	display: block;
+	background-image: url(../img/tpg-gross.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+div#akct a#akpreload {
+	background-image: url(../img/tpg-gross.png);	
+	background-repeat: no-repeat;
+	background-position: 234px 0px;
+}
