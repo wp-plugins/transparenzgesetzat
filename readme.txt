@@ -12,11 +12,11 @@ License:           GPLv2
 
 "Transparenzgesetz statt Amtsgeheimnis" - adds a sticky image to support the online petition for an Austrian Freedom of Information act
 
-More infos at [http://www.transparenzgesetz.at/banner](http://www.transparenzgesetz.at/banner)
-
 == Description ==
 
-For more details please visit [http://www.transparenzgesetz.at](http://www.transparenzgesetz.at)
+For more details about the initiative please visit [http://www.transparenzgesetz.at](http://www.transparenzgesetz.at)
+
+More infos about how to participate with your website, please visit [http://www.transparenzgesetz.at/banner](http://www.transparenzgesetz.at/banner)
 
 == Installation ==
 
