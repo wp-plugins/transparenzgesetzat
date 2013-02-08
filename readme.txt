@@ -2,7 +2,7 @@
 Contributors:      harmr
 Plugin Name:       Transparenzgesetz.at
 Plugin URI:        http://www.transparenzgesetz.at
-Tags:              Amtsgeheimnis, Transparenzgesetz, FOI, Freedom of Information, Österreich, Austria, Open Government
+Tags:              Amtsgeheimnis, Transparenzgesetz, FOI, Freedom of Information, Österreich, Austria, Open Government, Transparenzgesetz.at
 Author URI:        http://www.harm.co.at
 Author:            Robert Harm
 Requires at least: 2.x 
