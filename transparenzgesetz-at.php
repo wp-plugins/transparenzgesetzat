@@ -26,7 +26,7 @@ function __construct() {
 		add_action('wp_footer', array(&$this, 'tpg_footer_code'));
 	}
 	add_action('admin_menu', array(&$this, 'tpg_admin_menu'),5);
-	if ( !isset($tpg_status) || ($tpg_status == 'disabled') ){
+	if ( ($tpg_status == NULL) || ($tpg_status == 'disabled') ){
 		add_action('admin_notices', array(&$this, 'tpg_admin_notices'),6);
 	}
 	//add_action('widgets_init', create_function('', 'return register_widget("Class_tpg_widget");'));
