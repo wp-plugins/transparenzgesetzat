@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Transparenzgesetz.at
-Version: 1.0
+Version: 1.1
 Plugin URI: https://www.transparenzgesetz.at
 Description: "Transparenzgesetz statt Amtsgeheimnis" - adds a sticky image to support the online petition for an Austrian Freedom of Information act
 Author: Robert Harm
-Author URI: http://www.harm.co.at
+Author URI: https://www.harm.co.at
 */
 //info prevent file from being accessed directly
 if (basename($_SERVER['SCRIPT_FILENAME']) == 'transparenzgesetz-at.php') { die ("Please do not access this file directly. Thanks!<br/><a href='https://www.transparenzgesetz.at'>www.transparenzgesetz.at</a>"); }
