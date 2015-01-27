@@ -2,13 +2,13 @@
 /*
 Plugin Name: Transparenzgesetz.at
 Version: 1.0
-Plugin URI: http://www.transparenzgesetz.at
+Plugin URI: https://www.transparenzgesetz.at
 Description: "Transparenzgesetz statt Amtsgeheimnis" - adds a sticky image to support the online petition for an Austrian Freedom of Information act
 Author: Robert Harm
 Author URI: http://www.harm.co.at
 */
 //info prevent file from being accessed directly
-if (basename($_SERVER['SCRIPT_FILENAME']) == 'transparenzgesetz-at.php') { die ("Please do not access this file directly. Thanks!<br/><a href='http://www.transparenzgesetz.at'>www.transparenzgesetz.at</a>"); }
+if (basename($_SERVER['SCRIPT_FILENAME']) == 'transparenzgesetz-at.php') { die ("Please do not access this file directly. Thanks!<br/><a href='https://www.transparenzgesetz.at'>www.transparenzgesetz.at</a>"); }
 //info: define necessary paths and urls
 if ( ! defined( 'TPG_WP_ADMIN_URL' ) )
 	define( 'TPG_WP_ADMIN_URL', get_admin_url() );
@@ -47,8 +47,8 @@ function __construct() {
 		$wp_styles->add_data('transparenzgesetz-ie-only', 'conditional', 'lt IE 7');
   }
   function tpg_footer_code() {
-		echo '<!-- transparenzgesetz.at begin --><div id="akct"><a id="akpeel" href="http://www.transparenzgesetz.at/?ref=ohr" target="_blank" title="Transparenzgesetz.at - Online-Petition für ein Informationsfreiheitsgesetz in Österreich - jetzt unterzeichnen!"><img src="' . TPG_PLUGIN_URL . 'img/tpg-blank.gif" alt="Transparenzgesetz.at" /></a>
-<a id="akpreload" href="http://www.transparenzgesetz.at/banner?ref=ohr" target="_blank" title="Anleitungen zum Einbau dieses Banners auf der eigenen Webseite gibt es auf www.transparenzgesetz.at/banner"><img src="' . TPG_PLUGIN_URL . 'img/tpg-info.gif" alt="Info-Logo" /></a></div>
+		echo '<!-- transparenzgesetz.at begin --><div id="akct"><a id="akpeel" href="https://www.transparenzgesetz.at/?ref=ohr" target="_blank" title="Transparenzgesetz.at - Online-Petition für ein Informationsfreiheitsgesetz in Österreich - jetzt unterzeichnen!"><img src="' . TPG_PLUGIN_URL . 'img/tpg-blank.gif" alt="Transparenzgesetz.at" /></a>
+<a id="akpreload" href="https://www.transparenzgesetz.at/banner?ref=ohr" target="_blank" title="Anleitungen zum Einbau dieses Banners auf der eigenen Webseite gibt es auf www.transparenzgesetz.at/banner"><img src="' . TPG_PLUGIN_URL . 'img/tpg-info.gif" alt="Info-Logo" /></a></div>
 <!-- transparenzgesetz.at ende-->';  
   }
 }  //info: end class

@@ -1,22 +1,22 @@
 === Transparenzgesetz.at ===
 Contributors:      harmr
 Plugin Name:       Transparenzgesetz.at
-Plugin URI:        http://www.transparenzgesetz.at
+Plugin URI:        https://www.transparenzgesetz.at
 Tags:              Amtsgeheimnis, Transparenzgesetz, FOI, Freedom of Information, Österreich, Austria, Open Government, Transparenzgesetz.at
-Author URI:        http://www.harm.co.at
+Author URI:        https://www.harm.co.at
 Author:            Robert Harm
 Requires at least: 2.x 
-Tested up to:      3.5.1
-Stable tag:        1.0
+Tested up to:      4.1
+Stable tag:        1.1
 License:           GPLv2
 
 "Transparenzgesetz statt Amtsgeheimnis" - adds a sticky image to support the online petition for an Austrian Freedom of Information act
 
 == Description ==
 
-For more details about the initiative please visit [http://www.transparenzgesetz.at](http://www.transparenzgesetz.at)
+For more details about the initiative please visit [https://www.transparenzgesetz.at](https://www.transparenzgesetz.at)
 
-More infos about how to participate with your website, please visit [http://www.transparenzgesetz.at/banner](http://www.transparenzgesetz.at/banner)
+More infos about how to participate with your website, please visit [https://www.transparenzgesetz.at/banner](https://www.transparenzgesetz.at/banner)
 
 == Installation ==
 
@@ -35,7 +35,7 @@ Done.
 
 If you do not want to use the built-in plugin installation procedure from WordPress, you can also install the plugin manually:
 
-1. Navigate to [http://wordpress.org/extend/plugins/transparenzgesetz-at/](http://wordpress.org/extend/plugins/transparenzgesetzat/)
+1. Navigate to [https://wordpress.org/extend/plugins/transparenzgesetz-at/](http://wordpress.org/extend/plugins/transparenzgesetzat/)
 2. Click on red button "Download Version X.X" and download the plugin as ZIP-file
 3. Login on your WordPress site with your user account (needs to have admin rights!)
 4. Select "Add New" from the "Plugins" menu
@@ -48,7 +48,7 @@ Done.
 
 = Detailed Installation Instructions (via FTP) =
 
-1. Navigate to [http://wordpress.org/extend/plugins/transparenzgesetz-at/](http://wordpress.org/extend/plugins/transparenzgesetzat/)
+1. Navigate to [https://wordpress.org/extend/plugins/transparenzgesetz-at/](http://wordpress.org/extend/plugins/transparenzgesetzat/)
 2. Click on red button "Download Version X.X" and download the plugin as ZIP-file
 3. Login on your WordPress site with your user account (needs to have admin rights!)
 4. unzip and upload the leaflet-maps-marker folder to the `/wp-content/plugins/` directory
@@ -66,9 +66,12 @@ This plugin is based on VDS Page Peel, which was originally developed by Ralf "A
 01. sticky image small + large
 
 == Upgrade Notice ==
-= v1.0 =
-initial release
+= v1.1 =
+link to https://www.transparenzgesetz.at instead of http://www.transparenzgesetz.at
 
 == Changelog ==
+= v1.1 =
+link to https://www.transparenzgesetz.at instead of http://www.transparenzgesetz.at
+
 = v1.0 =
 initial release

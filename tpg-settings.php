@@ -24,9 +24,9 @@ if (!empty($action)) {
 ?>
 <h3 style="font-size:23px;">Transparenzgesetz.at</h3>
 <p>
-Plugin, um ein "Eselsohr" auf Ihrer Webseite anzuzeigen, welches zur Petition auf <a href="http://www.transparenzgesetz.at" target="_blank">http://www.transparenzgesetz.at</a> verlinkt.
+Plugin, um ein "Eselsohr" auf Ihrer Webseite anzuzeigen, welches zur Petition auf <a href="https://www.transparenzgesetz.at" target="_blank">https://www.transparenzgesetz.at</a> verlinkt.
 <br/><br/>
-Bitte geben Sie uns Ihre Webseite auch <a href="http://www.transparenzgesetz.at/teilnehmende-webseite-melden" target="_blank">über dieses Formular</a> an uns senden, damit wir Ihre Webseite zur <a href="http://www.transparenzgesetz.at/banner-webseiten" target="_blank">Liste der teilnehmenden Webseiten</a> hinzufügen können.<br/>
+Bitte geben Sie uns Ihre Webseite auch <a href="https://www.transparenzgesetz.at/teilnehmende-webseite-melden" target="_blank">über dieses Formular</a> an uns senden, damit wir Ihre Webseite zur <a href="https://www.transparenzgesetz.at/banner-webseiten" target="_blank">Liste der teilnehmenden Webseiten</a> hinzufügen können.<br/>
 Danke!
 </p>
 <?php $nonce= wp_create_nonce('tool-nonce'); ?>
